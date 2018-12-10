@@ -9,10 +9,10 @@ package org.usfirst.frc.team3359.robot;
 
 public enum RobotMap {
 // facing the back of robot
-LEFT_MOTOR4(0),
-LEFT_MOTOR2(1),
-RIGHT_MOTOR3(2),
-RIGHT_MOTOR1(3),
+LEFT_MOTOR2(0),
+LEFT_MOTOR4(1),
+RIGHT_MOTOR1(2),
+RIGHT_MOTOR3(3),
 //
 LEFT_JOYSTICK(0),
 RIGHT_JOYSTICK(1);
